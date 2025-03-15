@@ -5,6 +5,7 @@
 📍 **Localisation** : Mohammedia, Maroc  
 🌐 **Portfolio** : [portfolio-moutawassit-abdelali.web.app](https://portfolio-moutawassit-abdelali.web.app)  
 📧 **Contact** : abdelalimoutawassit99@gmail.com  
+📧 **LinkedIn**: [Abdelali Moutawassit](https://www.linkedin.com/in/moutawassit-abdelali-98bb95267/)
 🔗 **GitHub** : [Abdelali-Moutawassit](https://github.com/Abdelali-Moutawassit)  
 
 ---
@@ -133,7 +134,7 @@ I am an **Engineer** with expertise in **Big Data** and **Cloud Computing**, cur
 ## 📫 How to reach me
 
 - Email: abdelalimoutawassit99@gmail.com
-- LinkedIn: [Abdelali Moutawassit](https://www.linkedin.com/in/abdelali-moutawassit)
+- LinkedIn: [Abdelali Moutawassit](https://www.linkedin.com/in/moutawassit-abdelali-98bb95267/)
 - GitHub: [Abdelali-Moutawassit](https://github.com/Abdelali-Moutawassit)
 
 ---
