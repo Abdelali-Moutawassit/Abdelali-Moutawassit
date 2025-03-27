@@ -104,15 +104,18 @@ I am an **Engineer** with expertise in **Big Data** and **Cloud Computing**, cur
 - Led **user needs analysis** and **architectural design** to improve operational efficiency.
 - Delivered an application that enabled field teams to better manage vehicles and stock.
 
+### **Mobile Application Developer – IntelliCo**  
+*July 2024 – October 2024 | Mohammedia, Morocco*  
+- Designed and developed a **mobile school management application** with **React Native** and **Laravel**.
+- Implemented features like leave requests, personalized notifications, homework tracking, and evaluations.
+- Worked closely with technical teams to deliver a **scalable solution** optimized for mobile devices.
+
 ### **Mobile Developer – Adria** 
 *February 2025 – Present | Casablanca, Morocco*  
 - Developing a **Flutter-based** e-banking application, migrating from native **Android (Java/Kotlin)** and **iOS (Swift)**.
 - Integrating **Platform Channels** to bridge Flutter with native functionalities for advanced banking features.
 - Working with **Clean Architecture** to ensure a scalable and maintainable codebase.
 - Implementing **KYC SDK integration** for identity verification and document scanning.
-
-### **Mobile Application Developer – IntelliCo**  
-*July 2024 – October 2024 | Mohammedia, Morocco*
 
 
 ---
