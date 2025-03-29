@@ -2,7 +2,7 @@
 
 👨‍💻 **Ingénieur Informatique** | Passionné par le **Big Data** & **Cloud Computing** et le **Développement Web et Mobile**
 
-📍 **Localisation** : Mohammedia,Casablanca Maroc  
+📍 **Localisation** : Mohammedia,Casablanca Maroc   
 🌐 **Portfolio** : [portfolio-moutawassit-abdelali.web.app](https://portfolio-moutawassit-abdelali.web.app)  
 📧 **Contact** : abdelalimoutawassit99@gmail.com  
 📧 **LinkedIn**: [Abdelali Moutawassit](https://www.linkedin.com/in/moutawassit-abdelali-98bb95267/)
