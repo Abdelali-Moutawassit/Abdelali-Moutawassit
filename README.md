@@ -1,6 +1,6 @@
 # Abdelali Moutawassit
 
-👨‍💻 **Ingénieur Informatique** | Passionné par le **Big Data**, **Cloud Computing** et le **Développement Web et Mobile**
+👨‍💻 **Ingénieur Informatique** | Passionné par le **Big Data** & **Cloud Computing** et le **Développement Web et Mobile**
 
 📍 **Localisation** : Mohammedia,Casablanca Maroc  
 🌐 **Portfolio** : [portfolio-moutawassit-abdelali.web.app](https://portfolio-moutawassit-abdelali.web.app)  
